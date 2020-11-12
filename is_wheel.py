@@ -27,7 +27,7 @@ if __name__ == '__main__':
     print(isWheel(
         adj=[[False, True, True, True, True],
              [True, False, True, False, True],
-             [True, True, False, True, False],
+             [True, True, False, True, False],q
              [True, False, True, False, True],
              [True, True, False, True, False]])
     )
